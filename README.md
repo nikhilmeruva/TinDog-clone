@@ -1,2 +1,1 @@
-# TinDog-clone
-This a website made with reference to Tindog website using  HTML, CSS, Bootstrap
+TinDog Starting Files
